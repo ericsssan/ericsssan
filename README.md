@@ -31,7 +31,7 @@ A parse → check → lint pipeline, built as independent, composable libraries:
 | **[zbc](https://github.com/ericsssan/zbc)** | Static analyzer that infers Zig lifetime/ownership/cleanup bugs — no annotations |
 | **[zcov](https://github.com/ericsssan/zcov)** | Cross-platform code coverage for Zig — one command, no dependencies |
 | **[zig-bindgen](https://github.com/ericsssan/zig-bindgen)** | WIT bindings generator for Zig targeting the WebAssembly Component Model |
-| **[ic-fuzzer](https://github.com/ericsssan/ic-fuzzer)** | Diagnosing & fixing V8 megamorphic deopts in Node — with a [full writeup](https://github.com/ericsssan/ic-fuzzer/blob/main/ARTICLE.md) |
+| **[ic-fuzzer](https://github.com/ericsssan/ic-fuzzer)** | Diagnosing & fixing V8 megamorphic deopts in Node — with a [full writeup](https://ericsssan.github.io/ic-fuzzer) |
 
 ---
 
