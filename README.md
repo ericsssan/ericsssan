@@ -1,8 +1,8 @@
 # Hi, I'm Eric 👋
 
-Systems engineer in Singapore. I build language tooling and network stacks from scratch — mostly in **Zig** — because the best way to understand a system is to rebuild it.
+Senior full-stack engineer in Singapore. By day I ship full-stack products; in my spare time I go deep on **low-level systems** — building language tooling and network stacks from scratch, mostly in **Zig** — because the best way to understand a system is to rebuild it.
 
-Right now I'm writing a complete **JavaScript/TypeScript toolchain in Zig**: a parser, a type checker, a compiler, and a linter, each a standalone library you can use on its own.
+The headline project: a complete **JavaScript/TypeScript toolchain in Zig** — a parser, a type checker, a compiler, and a linter, each a standalone library you can use on its own.
 
 ---
 
