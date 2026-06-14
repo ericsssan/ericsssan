@@ -23,15 +23,12 @@ A parse → check → lint pipeline, built as independent, composable libraries:
 | **[zquic](https://github.com/ericsssan/zquic)** | Sans-I/O QUIC library — RFC 9000/9001/9002, TLS 1.3 handshake, CUBIC + BBRv3, 0-RTT, zero dependencies |
 | **[zhttp3](https://github.com/ericsssan/zhttp3)** | HTTP/3 framing, QPACK compression, and a server layer built on zquic |
 
-### 🔬 Static analysis & tooling
+### 🔬 Static analysis
 
 | Project | What it does |
 |---------|--------------|
 | **[san](https://github.com/ericsssan/san)** | Deep static analyzer for `unsafe` Rust — MIR driver, dataflow + typestate analysis, 132 checkers |
 | **[zbc](https://github.com/ericsssan/zbc)** | Static analyzer that infers Zig lifetime/ownership/cleanup bugs — no annotations |
-| **[zcov](https://github.com/ericsssan/zcov)** | Cross-platform code coverage for Zig — one command, no dependencies |
-| **[zig-bindgen](https://github.com/ericsssan/zig-bindgen)** | WIT bindings generator for Zig targeting the WebAssembly Component Model |
-| **[ic-fuzzer](https://github.com/ericsssan/ic-fuzzer)** | Diagnosing & fixing V8 megamorphic deopts in Node — with a [full writeup](https://ericsssan.github.io/ic-fuzzer) |
 
 ---
 
