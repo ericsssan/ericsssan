@@ -6,7 +6,7 @@
 
 ---
 
-Full-stack engineer with 10 years of remote experience building web applications that are **secure by design**. I work the whole stack — product features in Next.js, React, Django, and Laravel — and own the cryptography and architecture that protect the data behind them. I also build the layers most engineers just consume: **TLS/QUIC transport, type checkers, and static analyzers**.
+Full-stack engineer with 10 years of remote experience delivering **secure-by-design** web applications for client companies across Europe. I work the whole stack — product features in Next.js, React, Django, and Laravel — and own the cryptography and architecture that protect the data behind them. I also build the layers most engineers just consume: **TLS/QUIC transport, type checkers, and static analyzers**.
 
 ## 🧰 Technical Skills
 
@@ -26,6 +26,7 @@ Full-stack engineer with 10 years of remote experience building web applications
 
 **Altern8 Technologies Pte Ltd** · Jun 2016 – Present · Remote
 *Full-Stack Engineer → Team Lead → Senior Full-Stack Engineer (current)*
+*Delivering full-stack products for client companies across Europe.*
 
 - Built secure, encryption-first features for products handling sensitive user data.
 - Hardened applications against issues surfaced in independent security audits, closing authentication and session-handling gaps.
