@@ -16,7 +16,7 @@ Full-stack engineer with 10 years of remote experience delivering **secure-by-de
 | **Languages** | TypeScript / JavaScript, Python, PHP, Rust, Zig, Go, SQL |
 | **Frontend** | React, React Native (Expo), Next.js, Vue.js, Tailwind CSS, Flutter |
 | **Backend** | Django, Django REST Framework, Laravel, Node.js |
-| **AI / LLM** | Retrieval-augmented generation (RAG), hybrid search, embeddings, reranking, Gemini |
+| **AI / LLM** | Retrieval-augmented generation (RAG), vector search, Gemini |
 | **Cloud & Infra** | Azure (AKS), Google Cloud, AWS, Supabase, Kubernetes, Docker, Terraform, Nginx |
 | **Data & Queues** | PostgreSQL, pgvector, MySQL, Redis, Celery |
 | **Testing** | Playwright, Vitest, Jest, pytest, PestPHP |
