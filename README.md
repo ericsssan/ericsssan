@@ -38,8 +38,8 @@ Full-stack engineer with 10 years of remote experience delivering **secure-by-de
 
 - **Jarvis AI** — A production RAG platform that turns a fund's research archive into a conversational assistant. I build it across the stack: a microservices backend — hybrid retrieval (semantic + keyword search, reranked), automated document ingestion, encryption and hardened auth — and a mobile client. *Go, Python, React Native, Supabase/pgvector, Gemini, GCP.*
 - **[AssetPass](https://assetpass.com)** — A digital-legacy platform where data is encrypted on the client and never readable by the server. I designed and built the encryption and secure-authentication layers. *Next.js, Azure (AKS).*
-- **[SalesGoal](https://www.salesgoal.com)** — A sales-management platform for pipeline tracking, performance analytics, and revenue forecasting. I built its drag-and-drop pipeline boards and data-visualization dashboards. *Laravel, React, TypeScript, visx, Playwright.*
 - **[Asentaa SaaS Platform](https://www.asentaa.com)** — A multi-tenant candidate-assessment SaaS platform; I rebuilt it from a legacy on-site tool, reworking the scoring engine and migrating existing data. *Laravel, React, Tailwind CSS.*
+- **[SalesGoal](https://www.salesgoal.com)** — A sales-management platform for pipeline tracking, performance analytics, and revenue forecasting. I built its drag-and-drop pipeline boards and data-visualization dashboards. *Laravel, React, TypeScript, visx, Playwright.*
 - **[KeyForCare Analytics](https://www.keyforcare.se)** — A patient-feedback and quality system for healthcare providers; I automated the report generation and distribution pipeline with caching and pre-computation. *Vanilla PHP, Laravel, MySQL, Redis.*
 ## 🔬 Open Source
 
