@@ -39,7 +39,7 @@ Full-stack engineer with 10 years of remote experience building web applications
 - **[AssetPass](https://assetpass.com)** — A digital-legacy platform where data is encrypted on the client and never readable by the server. I designed and built the encryption and secure-authentication layers. *Next.js on Kubernetes.*
 - **[SalesGoal](https://www.salesgoal.com)** — A sales-management platform for pipeline tracking, performance analytics, and revenue forecasting. I built full-stack features across a Laravel backend and a React/TypeScript front end — drag-and-drop pipeline boards and interactive forecasting dashboards. *Laravel, React, TypeScript, visx, Playwright.*
 - **Competitor Price Monitoring** — Real-time scraping and analysis pipeline with scheduled jobs, anti-scraping measures, and alerting. *Django, React, PostgreSQL, Celery, Redis, Docker.*
-- **Asentaa SaaS Platform** — Transformed a legacy onsite candidate-assessment system into a scalable multi-tenant SaaS platform; improved scoring algorithm and migrated legacy data. *Laravel, React, Tailwind CSS.*
+- **[Asentaa SaaS Platform](https://www.asentaa.com)** — Transformed a legacy onsite candidate-assessment system into a scalable multi-tenant SaaS platform; improved scoring algorithm and migrated legacy data. *Laravel, React, Tailwind CSS.*
 - **[KeyForCare Analytics](https://www.keyforcare.se)** — Real-time analytics dashboard; caching and pre-calculation strategies reduced report generation time by an average of 70%.
 
 ## 🔬 Open Source
