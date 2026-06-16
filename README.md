@@ -35,7 +35,7 @@ Full-stack engineer with 10 years of remote experience building web applications
 
 ## 🚀 Selected Projects
 
-- **Jarvis AI** — A production RAG platform that turns a fund's research archive into a conversational assistant. I build it across the stack: a Go + Python microservices backend — retrieval done properly (hybrid search + reranking, not naive vector lookup), automated document ingestion, encryption and hardened auth — and a React Native mobile client. *Go, Python, React Native, Supabase/pgvector, Gemini, GCP.*
+- **Jarvis AI** — A production RAG platform that turns a fund's research archive into a conversational assistant. I build it across the stack: a Go + Python microservices backend — hybrid retrieval (semantic + keyword search, reranked), automated document ingestion, encryption and hardened auth — and a React Native mobile client. *Go, Python, React Native, Supabase/pgvector, Gemini, GCP.*
 - **[AssetPass](https://assetpass.com)** — A digital-legacy platform where data is encrypted on the client and never readable by the server. I designed and built the encryption and secure-authentication layers. *Next.js on Kubernetes.*
 - **[SalesGoal](https://www.salesgoal.com)** — A sales-management platform for pipeline tracking, performance analytics, and revenue forecasting. I built full-stack features across a Laravel backend and a React/TypeScript front end — drag-and-drop pipeline boards and interactive forecasting dashboards. *Laravel, React, TypeScript, visx, Playwright.*
 - **[Asentaa SaaS Platform](https://www.asentaa.com)** — A multi-tenant candidate-assessment SaaS platform; I rebuilt it from a legacy on-site tool, reworking the scoring engine and migrating existing data. *Laravel, React, Tailwind CSS.*
