@@ -1,8 +1,8 @@
 # Eric San
 
-**Security-Focused Full-Stack Engineer** · Singapore
+**Security-Focused Full-Stack Engineer** · Singapore Citizen
 
-📫 [ericsssan@gmail.com](mailto:ericsssan@gmail.com) · 🌐 [Web CV](https://ericsssan.github.io) · 💻 [github.com/ericsssan](https://github.com/ericsssan)
+📫 [ericsssan@gmail.com](mailto:ericsssan@gmail.com) · 🌐 [Web CV](https://ericsssan.github.io) · 💻 [github.com/ericsssan](https://github.com/ericsssan) · 💼 [LinkedIn](https://www.linkedin.com/in/ericsssan)
 
 ---
 
