@@ -60,7 +60,6 @@ Full-stack engineer with 10 years of remote experience delivering **secure-by-de
 ## 🎓 Education
 
 - **B.Eng. Computer Engineering** — National University of Singapore
-- **Diploma in Electrical & Electronics Engineering** — Singapore Polytechnic
 
 ---
 
