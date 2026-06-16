@@ -44,10 +44,14 @@ Full-stack engineer with 10 years of remote experience building web applications
 
 ## 🔬 Open Source
 
-**Security & correctness**
+**A TypeScript toolchain in Zig**
+- [ez](https://github.com/ericsssan/ez) — high-performance JS/TS parser + linter with a zero-copy ESLint plugin runner: run any ESLint plugin (core, `n`, `es-x`, `import`) against the Zig AST without reimplementing a single rule. SIMD lexer, struct-of-arrays AST.
+- [ez-checker](https://github.com/ericsssan/ez-checker) — a from-scratch reimplementation of the TypeScript type checker (the type-system core of `tsc`) in Zig: full inference, control-flow narrowing, conditional/mapped/utility types. ~83% TypeScript-corpus conformance.
+- [es-parser](https://github.com/ericsssan/es-parser) — the fast, standalone JS/TS/JSX parser the toolchain is built on; SIMD lexer, struct-of-arrays AST; 3,966/3,966 test262.
+
+**Security & static analysis**
 - [san](https://github.com/ericsssan/san) — deep static analyzer for `unsafe` Rust; rustc MIR driver, dataflow + typestate analysis, 132 checkers.
 - [zbc](https://github.com/ericsssan/zbc) — infers Zig lifetime, ownership, and cleanup bugs with no annotations.
-- [ez-checker](https://github.com/ericsssan/ez-checker) — TypeScript type checker; full inference and control-flow narrowing.
 
 **Cryptography & networking**
 - [zquic](https://github.com/ericsssan/zquic) — Sans-I/O QUIC library (RFC 9000/9001/9002), TLS 1.3 handshake, 0-RTT, zero dependencies.
@@ -55,7 +59,6 @@ Full-stack engineer with 10 years of remote experience building web applications
 
 **Performance**
 - [ic-fuzzer](https://github.com/ericsssan/ic-fuzzer) — diagnoses and fixes V8 JIT megamorphic deoptimizations in Node/TypeScript.
-- [es-parser](https://github.com/ericsssan/es-parser) — JS/TS/JSX parser; SIMD lexer, struct-of-arrays AST; 3,966/3,966 test262.
 
 ## 🎓 Education
 
