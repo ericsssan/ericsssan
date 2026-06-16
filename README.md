@@ -35,11 +35,11 @@ Full-stack engineer with 10 years of remote experience building web applications
 
 ## 🚀 Selected Projects
 
-- **AssetPass** (2025–Present) — A digital-legacy platform where data is encrypted on the client and never readable by the server. I designed and built the encryption and secure-authentication layers. *Next.js on Kubernetes.*
-- **Jarvis AI** (2026) — A RAG platform that turns a fund manager's document archive into a queryable research partner. I built the Go microservices backend: REST + WebSocket streaming chat over a hybrid retrieval pipeline (vector + full-text search, reciprocal-rank fusion, Gemini reranking), event-driven workers over PGMQ queues, and email/web ingestion crawlers feeding a Python/Docling extraction service. Hardened it end to end — JWT and Google-OAuth auth, AES-256-GCM encryption of stored credentials, and a defense-in-depth HTTP layer (CSP, security headers, rate limiting). *Go, Python, Supabase (Postgres + pgvector), Gemini, GCP, Terraform.*
-- **Competitor Price Monitoring** (2024) — Real-time scraping and analysis pipeline with scheduled jobs, anti-scraping measures, and alerting. *Django, React, PostgreSQL, Celery, Redis, Docker.*
-- **Asentaa SaaS Platform** (2023) — Transformed a legacy onsite candidate-assessment system into a scalable multi-tenant SaaS platform; improved scoring algorithm and migrated legacy data. *Laravel, React, Tailwind CSS.*
-- **KeyForCare Analytics** (2022) — Real-time analytics dashboard; caching and pre-calculation strategies reduced report generation time by an average of 70%.
+- **Jarvis AI** — A RAG platform that turns a fund manager's document archive into a queryable research partner. I built the Go microservices backend: REST + WebSocket streaming chat over a hybrid retrieval pipeline (vector + full-text search, reciprocal-rank fusion, Gemini reranking), event-driven workers over PGMQ queues, and email/web ingestion crawlers feeding a Python/Docling extraction service. Hardened it end to end — JWT and Google-OAuth auth, AES-256-GCM encryption of stored credentials, and a defense-in-depth HTTP layer (CSP, security headers, rate limiting). *Go, Python, Supabase (Postgres + pgvector), Gemini, GCP, Terraform.*
+- **AssetPass** — A digital-legacy platform where data is encrypted on the client and never readable by the server. I designed and built the encryption and secure-authentication layers. *Next.js on Kubernetes.*
+- **Competitor Price Monitoring** — Real-time scraping and analysis pipeline with scheduled jobs, anti-scraping measures, and alerting. *Django, React, PostgreSQL, Celery, Redis, Docker.*
+- **Asentaa SaaS Platform** — Transformed a legacy onsite candidate-assessment system into a scalable multi-tenant SaaS platform; improved scoring algorithm and migrated legacy data. *Laravel, React, Tailwind CSS.*
+- **KeyForCare Analytics** — Real-time analytics dashboard; caching and pre-calculation strategies reduced report generation time by an average of 70%.
 
 ## 🔬 Open Source
 
