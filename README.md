@@ -14,7 +14,7 @@ Full-stack engineer with 10 years of remote experience building web applications
 |---|---|
 | **Security** | End-to-end encryption (E2EE), cryptographic primitives, penetration-testing remediation, secure development practices |
 | **Languages** | TypeScript / JavaScript, Python, PHP, Rust, Zig, Go, SQL |
-| **Frontend** | React, Next.js, Vue.js, Tailwind CSS, Flutter |
+| **Frontend** | React, React Native (Expo), Next.js, Vue.js, Tailwind CSS, Flutter |
 | **Backend** | Django, Django REST Framework, Laravel, Node.js |
 | **AI / LLM** | Retrieval-augmented generation (RAG), hybrid search, embeddings, reranking, Gemini |
 | **Cloud & Infra** | Azure (AKS), Google Cloud, AWS, Supabase, Kubernetes, Docker, Terraform, Nginx |
@@ -35,7 +35,7 @@ Full-stack engineer with 10 years of remote experience building web applications
 
 ## 🚀 Selected Projects
 
-- **Jarvis AI** — A production RAG platform that turns a fund's research archive into a conversational assistant. I designed and built the backend end-to-end: a Go + Python microservices system with retrieval done properly (hybrid search + reranking, not naive vector lookup), automated document ingestion, and encryption and hardened auth throughout. *Go, Python, Supabase/pgvector, Gemini, GCP.*
+- **Jarvis AI** — A production RAG platform that turns a fund's research archive into a conversational assistant. I built the backend — a Go + Python microservices system with retrieval done properly (hybrid search + reranking, not naive vector lookup), automated document ingestion, and encryption and hardened auth throughout — and am now building the companion mobile client. *Go, Python, React Native, Supabase/pgvector, Gemini, GCP.*
 - **[AssetPass](https://assetpass.com)** — A digital-legacy platform where data is encrypted on the client and never readable by the server. I designed and built the encryption and secure-authentication layers. *Next.js on Kubernetes.*
 - **[SalesGoal](https://www.salesgoal.com)** — A sales-management platform for pipeline tracking, performance analytics, and revenue forecasting. I built full-stack features across a Laravel backend and a React/TypeScript front end — drag-and-drop pipeline boards and interactive forecasting dashboards. *Laravel, React, TypeScript, visx, Playwright.*
 - **[Asentaa SaaS Platform](https://www.asentaa.com)** — Transformed a legacy onsite candidate-assessment system into a scalable multi-tenant SaaS platform; improved scoring algorithm and migrated legacy data. *Laravel, React, Tailwind CSS.*
