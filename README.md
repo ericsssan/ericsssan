@@ -6,7 +6,7 @@
 
 ---
 
-Full-stack engineer with 10 years of remote experience building web applications that are **secure by design**. I work the whole stack — product features in Next.js, React, Django, and Laravel — and own the cryptography and architecture that protect the data behind them. I also go a layer deeper than most, building the kinds of systems applications usually just depend on: **TLS/QUIC transport, type checkers, and static analyzers**.
+Full-stack engineer with 10 years of remote experience building web applications that are **secure by design**. I work the whole stack — product features in Next.js, React, Django, and Laravel — and own the cryptography and architecture that protect the data behind them. I also build the layers most engineers just consume: **TLS/QUIC transport, type checkers, and static analyzers**.
 
 ## 🧰 Technical Skills
 
@@ -31,16 +31,16 @@ Full-stack engineer with 10 years of remote experience building web applications
 - Hardened applications against issues surfaced in independent security audits, closing authentication and session-handling gaps.
 - Led delivery across 5+ client products in healthcare, sales, and assessment, owning architecture, code quality, and CI/CD.
 - Tuned database and query performance with caching, pre-computation, and indexing across data-heavy products.
-- Delivered applications end to end — from APIs, data models, and access control to modernizing legacy systems onto maintainable frameworks.
+- Modernized legacy client applications onto maintainable frameworks.
 
 ## 🚀 Selected Projects
 
 - **Jarvis AI** — A production RAG platform that turns a fund's research archive into a conversational assistant. I build it across the stack: a Go + Python microservices backend — retrieval done properly (hybrid search + reranking, not naive vector lookup), automated document ingestion, encryption and hardened auth — and a React Native mobile client. *Go, Python, React Native, Supabase/pgvector, Gemini, GCP.*
 - **[AssetPass](https://assetpass.com)** — A digital-legacy platform where data is encrypted on the client and never readable by the server. I designed and built the encryption and secure-authentication layers. *Next.js on Kubernetes.*
 - **[SalesGoal](https://www.salesgoal.com)** — A sales-management platform for pipeline tracking, performance analytics, and revenue forecasting. I built full-stack features across a Laravel backend and a React/TypeScript front end — drag-and-drop pipeline boards and interactive forecasting dashboards. *Laravel, React, TypeScript, visx, Playwright.*
-- **[Asentaa SaaS Platform](https://www.asentaa.com)** — Transformed a legacy onsite candidate-assessment system into a scalable multi-tenant SaaS platform; improved scoring algorithm and migrated legacy data. *Laravel, React, Tailwind CSS.*
-- **[KeyForCare Analytics](https://www.keyforcare.se)** — Real-time analytics dashboard; caching and pre-calculation strategies reduced report generation time by an average of 70%.
-- **Competitor Price Monitoring** — Real-time scraping and analysis pipeline with scheduled jobs, anti-scraping measures, and alerting. *Django, React, PostgreSQL, Celery, Redis, Docker.*
+- **[Asentaa SaaS Platform](https://www.asentaa.com)** — A multi-tenant candidate-assessment SaaS platform; I rebuilt it from a legacy on-site tool, reworking the scoring engine and migrating existing data. *Laravel, React, Tailwind CSS.*
+- **[KeyForCare Analytics](https://www.keyforcare.se)** — A real-time analytics dashboard; I cut report-generation time ~70% through caching and pre-computation.
+- **Competitor Price Monitoring** — A real-time price-monitoring pipeline; I built the scheduled crawlers, anti-scraping handling, and alerting. *Django, React, PostgreSQL, Celery, Redis, Docker.*
 
 ## 🔬 Open Source
 
