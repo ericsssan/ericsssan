@@ -6,7 +6,7 @@
 
 ---
 
-Full-stack engineer with 10 years of remote experience delivering **secure-by-design** web applications for client companies across Europe. I work the whole stack — product features and AI/RAG systems across Next.js, React, Django, Laravel, and Go — and own the cryptography and architecture that protect the data behind them. I also build the layers most engineers just consume: **TLS/QUIC transport, type checkers, and static analyzers**.
+Full-stack engineer with 10 years of remote experience delivering **secure-by-design** web applications for client companies across Europe. I work the whole stack — web products in Next.js, React, Django, and Laravel, and AI/RAG systems in Go and Python — and own the cryptography and architecture that protect the data behind them. I also build the layers most engineers just consume: **TLS/QUIC transport, type checkers, and static analyzers**.
 
 ## 🧰 Technical Skills
 
@@ -31,7 +31,7 @@ Full-stack engineer with 10 years of remote experience delivering **secure-by-de
 - Built secure, encryption-first features for products handling sensitive user data.
 - Hardened applications against issues surfaced in independent security audits, closing authentication and session-handling gaps.
 - Led delivery across 5+ client products in healthcare, sales, and assessment, owning architecture, code quality, and CI/CD.
-- Tuned database and query performance with caching, pre-computation, and indexing across data-heavy products.
+- Optimized database performance for data-heavy products through indexing and query tuning.
 - Modernized legacy client applications onto maintainable frameworks.
 
 ## 🚀 Selected Projects
@@ -46,7 +46,7 @@ Full-stack engineer with 10 years of remote experience delivering **secure-by-de
 ## 🔬 Open Source
 
 **A TypeScript toolchain in Zig**
-- [ez](https://github.com/ericsssan/ez) — high-performance JS/TS parser + linter with a zero-copy ESLint plugin runner: run any ESLint plugin (core, `n`, `es-x`, `import`) against the Zig AST without reimplementing a single rule. SIMD lexer, struct-of-arrays AST.
+- [ez](https://github.com/ericsssan/ez) — high-performance JS/TS parser + linter with a zero-copy ESLint plugin runner: run any ESLint plugin (core, `n`, `es-x`, `import`) against the Zig AST without reimplementing a single rule.
 - [ez-checker](https://github.com/ericsssan/ez-checker) — a from-scratch reimplementation of the TypeScript type checker (the type-system core of `tsc`) in Zig: full inference, control-flow narrowing, conditional/mapped/utility types. ~83% TypeScript-corpus conformance.
 - [es-parser](https://github.com/ericsssan/es-parser) — the fast, standalone JS/TS/JSX parser the toolchain is built on; SIMD lexer, struct-of-arrays AST; 3,966/3,966 test262.
 
