@@ -38,9 +38,9 @@ Full-stack engineer with 10 years of remote experience building web applications
 - **Jarvis AI** — A RAG platform that turns a fund manager's document archive into a queryable research partner. I built the Go microservices backend: REST + WebSocket streaming chat over a hybrid retrieval pipeline (vector + full-text search, reciprocal-rank fusion, Gemini reranking), event-driven workers over PGMQ queues, and email/web ingestion crawlers feeding a Python/Docling extraction service. Hardened it end to end — JWT and Google-OAuth auth, AES-256-GCM encryption of stored credentials, and a defense-in-depth HTTP layer (CSP, security headers, rate limiting). *Go, Python, Supabase (Postgres + pgvector), Gemini, GCP, Terraform.*
 - **[AssetPass](https://assetpass.com)** — A digital-legacy platform where data is encrypted on the client and never readable by the server. I designed and built the encryption and secure-authentication layers. *Next.js on Kubernetes.*
 - **[SalesGoal](https://www.salesgoal.com)** — A sales-management platform for pipeline tracking, performance analytics, and revenue forecasting. I built full-stack features across a Laravel backend and a React/TypeScript front end — drag-and-drop pipeline boards and interactive forecasting dashboards. *Laravel, React, TypeScript, visx, Playwright.*
-- **Competitor Price Monitoring** — Real-time scraping and analysis pipeline with scheduled jobs, anti-scraping measures, and alerting. *Django, React, PostgreSQL, Celery, Redis, Docker.*
 - **[Asentaa SaaS Platform](https://www.asentaa.com)** — Transformed a legacy onsite candidate-assessment system into a scalable multi-tenant SaaS platform; improved scoring algorithm and migrated legacy data. *Laravel, React, Tailwind CSS.*
 - **[KeyForCare Analytics](https://www.keyforcare.se)** — Real-time analytics dashboard; caching and pre-calculation strategies reduced report generation time by an average of 70%.
+- **Competitor Price Monitoring** — Real-time scraping and analysis pipeline with scheduled jobs, anti-scraping measures, and alerting. *Django, React, PostgreSQL, Celery, Redis, Docker.*
 
 ## 🔬 Open Source
 
